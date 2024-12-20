@@ -77,7 +77,7 @@ The performance of the models is compared using Mean Squared Error (MSE). The re
 Example Visualization:
 ![Model Performance](model_comparison.png)
 
-R² value: 0.7806341941328597
+R² value for Random Forest : 0.7806341941328597
 
 ---
 
