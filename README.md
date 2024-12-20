@@ -75,27 +75,8 @@ To run this project locally:
 The performance of the models is compared using Mean Squared Error (MSE). The results are saved in `model_results.csv` and visualized using bar charts.
 
 Example Visualization:
-![Model Performance](results_chart.png)
+![Model Performance](model_comparison.png)
 
 ---
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For any inquiries, please contact:
-
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
 
