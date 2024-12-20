@@ -75,7 +75,14 @@ results_df = pd.DataFrame(list(results.items()), columns=["Model", "MSE"])
 results_df.to_csv("model_results.csv", index=False)
 
 
-# In[ ]:
+# In[11]:
+
+
+model = RandomForestRegressor()
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+r2 = r2_score(y_test, y_pred)
+print("R² value:", r2)
 
 
 
