@@ -1,24 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-import pandas as pd
-
-# Load the dataset
-data = pd.read_csv("Fuel_cell_performance_data-Full.csv")
-
-
-# In[3]:
-
-
-import pandas as pd
-
-# Load the dataset
-data = pd.read_csv("Fuel_cell_performance_data-Full.csv")
-
-
 # In[4]:
 
 
